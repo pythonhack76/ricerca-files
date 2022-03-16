@@ -1,3 +1,5 @@
+#un programma per cercare files in directory 
+
 from tkinter import *
 
 def esegui_ricerca():
